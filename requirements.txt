@@ -1,0 +1,8 @@
+# Core runtime dependencies
+torch
+regex
+mlflow
+
+# Optional: for running the notebooks
+# jupyter
+# ipykernel
